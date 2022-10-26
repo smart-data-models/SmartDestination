@@ -1,9 +1,6 @@
 [submodule "TourismDestinations"]
 	path = TourismDestinations
 	url = https://github.com/smart-data-models/TourismDestinations.git
-[submodule "dataModel.TourismDestinations"]
-	path = dataModel.TourismDestinations
-	url = https://github.com/smart-data-models/dataModel.TourismDestinations.git
 [submodule "dataModel.Weather"]
 	path = dataModel.Weather
 	url = https://github.com/smart-data-models/dataModel.Weather.git
