@@ -12,6 +12,7 @@ This GitHub repository contains links to the repositories where different groups
 ## List of subjects
 
 * [dataModel.PointOfInterest](https://github.com/smart-data-models/dataModel.PointOfInterest)
+* [dataModel.Ports](https://github.com/smart-data-models/dataModel.Ports)
 * [dataModel.TourismDestinations](https://github.com/smart-data-models/dataModel.TourismDestinations)
 * [dataModel.Weather](https://github.com/smart-data-models/dataModel.Weather)
 ## Support
