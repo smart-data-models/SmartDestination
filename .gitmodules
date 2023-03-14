@@ -7,3 +7,6 @@
 [submodule "dataModel.Ports"]
 	path = dataModel.Ports
 	url = https://github.com/smart-data-models/dataModel.Ports.git
+[submodule "dataModel.TourismDestinations"]
+	path = dataModel.TourismDestinations
+	url = https://github.com/smart-data-models/dataModel.TourismDestinations.git
